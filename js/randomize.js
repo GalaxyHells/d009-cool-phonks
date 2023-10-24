@@ -7,7 +7,7 @@ function randomizePhonk () {
     let max = 4
     let randomPage = Math.floor(Math.random() * (max - min + 1) + min)
 
-    window.location = "../html/sub-pag0" + randomPage + ".html"
+    window.location = "..d009-cool-phonks/html/sub-pag0" + randomPage + ".html"
 }
 
 function loadVideoData () {
